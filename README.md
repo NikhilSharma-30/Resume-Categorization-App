@@ -7,11 +7,11 @@ With the increasing number of resumes being submitted for job openings, it becom
 This machine learning-based solution helps recruiters automate the sorting process by categorizing resumes based on key skills, experiences, and keywords.
 
 Key Technologies:
-Python 3.x
-Scikit-learn
-Pandas
-Natural Language Processing (NLP)
-TF-IDF (Term Frequency-Inverse Document Frequency)
+Python 3.x,
+Scikit-learn,
+Pandas,
+Natural Language Processing (NLP),
+TF-IDF (Term Frequency-Inverse Document Frequency),
 KNN / Random Forest Classifier / Support Vector Machines (SVM)
 
 Dataset
@@ -25,12 +25,12 @@ Model Training: Train various classifiers like Logistic Regression, Random Fores
 Evaluation: Evaluate the model’s performance using metrics like accuracy, precision, recall, and F1-score.
 
 Setup Instructions
-Prerequisites
-Python 3.x
-Scikit-learn
-Pandas
-Numpy
-Matplotlib (for visualizations)
+Prerequisites,
+Python 3.x,
+Scikit-learn,
+Pandas,
+Numpy,
+Matplotlib (for visualizations),
 Jupyter Notebook or any Python IDE
 
 Model Architecture
@@ -39,9 +39,9 @@ Text Preprocessing: Tokenization, stopword removal, stemming/lemmatization.
 Feature Extraction: TF-IDF vectorization is used to convert resumes into numerical data.
 
 Classification Models:
-KNN
-Random Forest Classifier
-Support Vector Machine (SVM)
+KNN,
+Random Forest Classifier,
+Support Vector Machine (SVM),
 The best model is selected based on evaluation metrics such as accuracy and F1-score.
 
 How to Use
