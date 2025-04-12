@@ -41,7 +41,7 @@ Feature Extraction: TF-IDF vectorization is used to convert resumes into numeric
 Classification Models:
 KNN,
 Random Forest Classifier,
-Support Vector Machine (SVM),
+Support Vector Machine (SVM).
 The best model is selected based on evaluation metrics such as accuracy and F1-score.
 
 How to Use
@@ -50,8 +50,8 @@ Extract Features: Convert the resume text into numerical form using techniques l
 Train the Model: Use a classification algorithm (e.g., Logistic Regression, Random Forest) to train the model.
 Predict Categories: Once trained, you can predict the job category for new resumes.
 
-valuation Metrics
-The model is evaluated using the following metrics:
+Valuation Metrics:
+ The model is evaluated using the following metrics:
 Accuracy: Proportion of correct predictions.
 Precision: Proportion of positive predictions that are actually correct.
 Recall: Proportion of actual positive cases that are correctly identified.
